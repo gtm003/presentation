@@ -1,0 +1,135 @@
+.svg-title {
+	font-family: sans-serif;
+	font-weight: bold;
+	fill: #13DAEC;
+}
+.svg-title text {
+	text-transform: uppercase;
+	animation: stroke 10s infinite alternate;
+	stroke-width: 2;
+	stroke:  #13DAEC;
+	font-size: 140px;
+}
+@keyframes stroke {
+	0%   {
+		fill:  rgba(55, 236, 19, 0.3); stroke: #25ec13;
+		stroke-dashoffset: 25%; stroke-dasharray: 0 50%; stroke-width: 2;
+	}
+	70%  {fill: rgba(19, 218, 236, 0.7); stroke: #13DAEC; }
+	80%  {fill: rgba(19, 218, 236, 0.8); stroke:   #488a1400; stroke-width: 3; }
+	100% {
+		fill: rgba(19, 218, 236, 1); stroke:#488a1400; 
+		stroke-dashoffset: -25%; stroke-dasharray: 50% 0; stroke-width: 0;
+	}
+}
+
+#circle {
+	animation: color 10s infinite alternate;
+}
+@keyframes color {
+	0%   {
+		fill:  yellow; 
+	}
+	100% {
+		fill: red; 
+	}
+}
+
+#rect {
+	animation: size 10s infinite alternate;
+}
+@keyframes size {
+	0%   {
+		width:  0;
+    height: 0;
+    transform: translate(55px, 55px);
+	}
+	100% {
+		width:  110;
+    height: 110;
+    transform: translate(0px, 0px);
+	}
+}
+
+#clock text {
+	font-size: 16px;
+	font-family:sans-serif;
+	fill:black;
+	stroke:none;
+}
+  
+#arrow {
+	  fill: black;
+	stroke:none;
+	animation: rotate 60s infinite linear;
+}
+  
+@keyframes rotate {
+	  0% { 
+		transform: rotate(0turn);
+		transform-origin: 53px 53px;
+	}
+	  100% { 
+		transform: rotate(1turn);
+		transform-origin: 53px 53px;
+	}
+}
+
+#card {
+	background:#fdfcd3;
+	width:100;
+	height:150;
+	border-radius:10;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+  }
+  .container svg {
+	max-width: 45rem;
+	width: 100%;
+	height: auto;
+	fill: none;
+	stroke: rgb(251, 252, 219);
+	stroke-width: 2;
+  }
+  .container svg path {
+	stroke-dasharray: 1500;
+	stroke-dashoffset: -1500;
+
+  }
+  .container svg path:nth-of-type(1) {
+	animation: draw 1000ms 500ms forwards;
+  }
+  .container svg path:nth-of-type(2) {
+	animation: draw 1000ms 1000ms forwards;
+  }
+  .container svg path:nth-of-type(3) {
+	animation: draw 1000ms 1500ms forwards;
+  }
+  .container svg path:nth-of-type(4) {
+	animation: draw 1000ms 2000ms forwards;
+  }
+  .container svg path:nth-of-type(5) {
+	animation: draw 1000ms 2500ms forwards;
+  }
+  .container svg path:nth-of-type(6) {
+	animation: draw 1000ms 3000ms forwards;
+  }
+  .container svg path:nth-of-type(7) {
+	animation: draw 1000ms 3500ms forwards;
+  }
+  .container svg path:nth-of-type(8) {
+	animation: draw 1000ms 4000ms forwards;
+  }
+  .container svg path:nth-of-type(9) {
+	animation: draw 1000ms 4500ms forwards;
+  }
+  @keyframes draw {
+	100% {
+	  stroke-dashoffset: 0;
+	}
+  }
