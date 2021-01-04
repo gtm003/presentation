@@ -75,13 +75,6 @@
 	}
 }
 
-#card {
-	background:#fdfcd3;
-	width:100;
-	height:150;
-	border-radius:10;
-}
-
 .container {
 	display: flex;
 	align-items: center;
@@ -133,3 +126,44 @@
 	  stroke-dashoffset: 0;
 	}
   }
+
+#card {
+	background:#fdfcd3;
+	border: black solid 1px;
+	border-radius: 20px;
+	width: 279px;
+	height: 400px;
+	position: relative;
+}
+
+.heart-card {
+	width: 40px;
+	height: 80px;
+	position: absolute;
+}
+  
+#heart_1 {
+  transform: matrix(1,0,0,1,-74.5,60);
+}
+  
+#heart_2 {
+	transform: matrix(1,0,0,1,37.5,60);
+}
+  
+#heart_3 {
+	transform: matrix(1,0,0,1,-20,170);
+}
+  
+#heart_4 {
+	transform: matrix(1,0,0,-1,-74.5,260);
+}
+  
+#heart_5 {
+	transform: matrix(1,0,0,-1,37.5,260);
+}
+
+svg text:hover {
+	fill: red;
+	stroke: red;
+	cursor: pointer;
+}

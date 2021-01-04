@@ -53,8 +53,8 @@
   <path
      stroke="#000000"
      id="svg_1-12"
-     d="m 39.999997,28.973864 c 16.383471,-70.498266 80.574463,0 0,90.640616 -80.574453,-90.640616 -16.38347,-161.138882 0,-90.640616 z"
+     d="m 20,14.477462 c 8.13757,-34.90982 40.020841,0 0,44.884048 -40.020835,-44.884048 -8.137568,-79.793868 0,-44.884048 z"
      stroke-width="1.5"
      fill="red"
-     style="fill:#ff0000;stroke-width:0.51744;stroke-miterlimit:4;stroke-dasharray:none" />
+     style="fill:#ff0000;stroke-width:0.51744;stroke-miterlimit:4;stroke-dasharray:none;stroke:none" />
 </svg>

@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="148mm"
-   height="210mm"
+   width="559.37006"
+   height="793.70081"
    version="1.1"
    id="svg881"
    sodipodi:docname="example03.svg"
@@ -29,9 +29,9 @@
      id="defs885">
     <rect
        x="35.820896"
-       y="32.238806"
+       y="32.238808"
        width="44.776119"
-       height="77.014925"
+       height="77.014923"
        id="rect1611" />
     <rect
        x="35.820896"
@@ -61,147 +61,154 @@
      showgrid="false"
      inkscape:zoom="0.55833333"
      inkscape:cx="-32.603087"
-     inkscape:cy="274.72687"
+     inkscape:cy="418.01045"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg881"
-     units="mm" />
+     units="px"
+     inkscape:document-rotation="0" />
   <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
-  <rect
-     style="fill:#fdfcd3;fill-opacity:1;stroke:#000000;stroke-width:2.93479;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect1524"
-     width="535.64789"
-     height="768.08881"
-     x="12.80598"
-     y="12.80598"
-     ry="37.795277"
-     rx="37.795277" />
   <g
-     id="g1632"
-     transform="matrix(0.85385846,0,0,0.89899843,41.818487,43.386863)"
-     style="stroke-width:1.14137">
+     id="g925"
+     transform="matrix(1.0326994,0,0,1.0326455,-10.121326,-12.955359)"
+     style="stroke-width:0.968361">
+    <rect
+       style="fill:#fdfcd3;fill-opacity:1;stroke:#000000;stroke-width:2.84194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1524"
+       width="535.64789"
+       height="768.08881"
+       x="12.80598"
+       y="12.80598"
+       ry="36.600437"
+       rx="36.598526" />
     <g
-       id="g879"
-       style="fill:#ff0000;stroke-width:2.18324;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.2044295,0,0,0.35795487,200.34274,295.65792)">
-      <title
-         id="title876">Layer 1</title>
-      <path
-         stroke="#000000"
-         id="svg_1"
-         d="m 392.73774,187.13741 c 94.82788,-217.35936 466.36663,0 0,279.46203 -466.36663,-279.46203 -94.82788,-496.82139 0,-279.46203 z"
-         stroke-width="1.5"
-         fill="#8B4D4B"
-         style="fill:#ff0000;stroke-width:2.18324;stroke-miterlimit:4;stroke-dasharray:none" />
+       id="g1632"
+       transform="matrix(0.85385846,0,0,0.89899843,41.818487,43.386863)"
+       style="stroke-width:1.10526">
+      <g
+         id="g879"
+         style="fill:#ff0000;stroke-width:2.11417;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(0.2044295,0,0,0.35795487,200.34274,295.65792)">
+        <title
+           id="title876">Layer 1</title>
+        <path
+           stroke="#000000"
+           id="svg_1"
+           d="m 392.73774,187.13741 c 94.82788,-217.35936 466.36663,0 0,279.46203 -466.36663,-279.46203 -94.82788,-496.82139 0,-279.46203 z"
+           stroke-width="1.5"
+           fill="#8B4D4B"
+           style="fill:#ff0000;stroke-width:2.11417;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <g
+         id="g1574"
+         transform="translate(-3.3000314,93.134332)"
+         style="stroke-width:1.10526">
+        <g
+           id="g879-7"
+           style="fill:#ff0000;stroke-width:2.11417;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.2044295,0,0,0.35795487,71.951622,-36.633924)">
+          <title
+             id="title876-0">Layer 1</title>
+          <path
+             stroke="#000000"
+             id="svg_1-12"
+             d="m 392.73774,187.13741 c 94.82788,-217.35936 466.36663,0 0,279.46203 -466.36663,-279.46203 -94.82788,-496.82139 0,-279.46203 z"
+             stroke-width="1.5"
+             fill="#8B4D4B"
+             style="fill:#ff0000;stroke-width:2.11417;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <g
+           id="g879-7-9"
+           style="fill:#ff0000;stroke-width:2.11417;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.2044295,0,0,0.35795487,333.44416,-36.633924)">
+          <title
+             id="title876-0-1">Layer 1</title>
+          <path
+             stroke="#000000"
+             id="svg_1-12-5"
+             d="m 392.73774,187.13741 c 94.82788,-217.35936 466.36663,0 0,279.46203 -466.36663,-279.46203 -94.82788,-496.82139 0,-279.46203 z"
+             stroke-width="1.5"
+             fill="#8B4D4B"
+             style="fill:#ff0000;stroke-width:2.11417;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <g
+         id="g1574-2"
+         transform="matrix(1,0,0,-1,-3.3000314,693.21525)"
+         style="stroke-width:1.10526">
+        <g
+           id="g879-7-4"
+           style="fill:#ff0000;stroke-width:2.11417;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.2044295,0,0,0.35795487,71.951622,-36.633924)">
+          <title
+             id="title876-0-16">Layer 1</title>
+          <path
+             stroke="#000000"
+             id="svg_1-12-2"
+             d="m 392.73774,187.13741 c 94.82788,-217.35936 466.36663,0 0,279.46203 -466.36663,-279.46203 -94.82788,-496.82139 0,-279.46203 z"
+             stroke-width="1.5"
+             fill="#8B4D4B"
+             style="fill:#ff0000;stroke-width:2.11417;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <g
+           id="g879-7-9-6"
+           style="fill:#ff0000;stroke-width:2.11417;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.2044295,0,0,0.35795487,333.44416,-36.633924)">
+          <title
+             id="title876-0-1-5">Layer 1</title>
+          <path
+             stroke="#000000"
+             id="svg_1-12-5-6"
+             d="m 392.73774,187.13741 c 94.82788,-217.35936 466.36663,0 0,279.46203 -466.36663,-279.46203 -94.82788,-496.82139 0,-279.46203 z"
+             stroke-width="1.5"
+             fill="#8B4D4B"
+             style="fill:#ff0000;stroke-width:2.11417;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
     </g>
-    <g
-       id="g1574"
-       transform="translate(-3.3000314,93.134332)"
-       style="stroke-width:1.14137">
-      <g
-         id="g879-7"
-         style="fill:#ff0000;stroke-width:2.18324;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.2044295,0,0,0.35795487,71.951622,-36.633924)">
-        <title
-           id="title876-0">Layer 1</title>
-        <path
-           stroke="#000000"
-           id="svg_1-12"
-           d="m 392.73774,187.13741 c 94.82788,-217.35936 466.36663,0 0,279.46203 -466.36663,-279.46203 -94.82788,-496.82139 0,-279.46203 z"
-           stroke-width="1.5"
-           fill="#8B4D4B"
-           style="fill:#ff0000;stroke-width:2.18324;stroke-miterlimit:4;stroke-dasharray:none" />
-      </g>
-      <g
-         id="g879-7-9"
-         style="fill:#ff0000;stroke-width:2.18324;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.2044295,0,0,0.35795487,333.44416,-36.633924)">
-        <title
-           id="title876-0-1">Layer 1</title>
-        <path
-           stroke="#000000"
-           id="svg_1-12-5"
-           d="m 392.73774,187.13741 c 94.82788,-217.35936 466.36663,0 0,279.46203 -466.36663,-279.46203 -94.82788,-496.82139 0,-279.46203 z"
-           stroke-width="1.5"
-           fill="#8B4D4B"
-           style="fill:#ff0000;stroke-width:2.18324;stroke-miterlimit:4;stroke-dasharray:none" />
-      </g>
-    </g>
-    <g
-       id="g1574-2"
-       transform="matrix(1,0,0,-1,-3.3000314,693.21525)"
-       style="stroke-width:1.14137">
-      <g
-         id="g879-7-4"
-         style="fill:#ff0000;stroke-width:2.18324;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.2044295,0,0,0.35795487,71.951622,-36.633924)">
-        <title
-           id="title876-0-16">Layer 1</title>
-        <path
-           stroke="#000000"
-           id="svg_1-12-2"
-           d="m 392.73774,187.13741 c 94.82788,-217.35936 466.36663,0 0,279.46203 -466.36663,-279.46203 -94.82788,-496.82139 0,-279.46203 z"
-           stroke-width="1.5"
-           fill="#8B4D4B"
-           style="fill:#ff0000;stroke-width:2.18324;stroke-miterlimit:4;stroke-dasharray:none" />
-      </g>
-      <g
-         id="g879-7-9-6"
-         style="fill:#ff0000;stroke-width:2.18324;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.2044295,0,0,0.35795487,333.44416,-36.633924)">
-        <title
-           id="title876-0-1-5">Layer 1</title>
-        <path
-           stroke="#000000"
-           id="svg_1-12-5-6"
-           d="m 392.73774,187.13741 c 94.82788,-217.35936 466.36663,0 0,279.46203 -466.36663,-279.46203 -94.82788,-496.82139 0,-279.46203 z"
-           stroke-width="1.5"
-           fill="#8B4D4B"
-           style="fill:#ff0000;stroke-width:2.18324;stroke-miterlimit:4;stroke-dasharray:none" />
-      </g>
-    </g>
-  </g>
-  <g
-     aria-label="5"
-     transform="matrix(2.7962148,0,0,2.9908877,-63.73719,-84.31076)"
-     id="text1609"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1611);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.345792">
-    <path
-       d="m 56.523437,42.680036 -1.015625,5.605469 H 42.871094 L 41.875,53.98863 q 3.203125,-2.167969 6.640625,-2.167969 4.160156,0 6.816406,2.441406 2.675781,2.441406 2.675781,6.25 0,4.257813 -3.007812,6.777344 -2.988281,2.5 -8.085938,2.5 -9.21875,0 -9.21875,-6.328125 0,-0.917969 0.273438,-2.265625 l 3.457031,-0.722656 q -0.332031,1.601562 -0.332031,2.929687 0,3.984375 4.238281,3.984375 5.078125,0 5.078125,-7.207031 0,-5.097656 -4.316406,-5.097656 -2.578125,0 -4.589844,2.734375 l -3.085937,-0.742188 2.5,-14.394531 z"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';fill:#ff0000;stroke-width:0.345792"
-       id="path1919" />
-  </g>
-  <path
-     stroke="#000000"
-     id="svg_1-12-5-9-5"
-     d="m 70.066054,148.38516 c 9.279947,-39.28578 45.639076,0 0,50.51029 -45.639064,-50.51029 -9.279943,-89.79607 0,-50.51029 z"
-     stroke-width="1.5"
-     fill="#8B4D4B"
-     style="fill:#ff0000;stroke-width:0.51744;stroke-miterlimit:4;stroke-dasharray:none"
-     inkscape:transform-center-x="-3.0123654"
-     inkscape:transform-center-y="-36.234137" />
-  <g
-     id="g1761-0"
-     transform="rotate(180,280.40616,393.86548)">
     <g
        aria-label="5"
        transform="matrix(2.7962148,0,0,2.9908877,-63.73719,-84.31076)"
-       id="text1609-8"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1611-7);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.345792">
+       id="text1609"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1611);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.334852">
       <path
          d="m 56.523437,42.680036 -1.015625,5.605469 H 42.871094 L 41.875,53.98863 q 3.203125,-2.167969 6.640625,-2.167969 4.160156,0 6.816406,2.441406 2.675781,2.441406 2.675781,6.25 0,4.257813 -3.007812,6.777344 -2.988281,2.5 -8.085938,2.5 -9.21875,0 -9.21875,-6.328125 0,-0.917969 0.273438,-2.265625 l 3.457031,-0.722656 q -0.332031,1.601562 -0.332031,2.929687 0,3.984375 4.238281,3.984375 5.078125,0 5.078125,-7.207031 0,-5.097656 -4.316406,-5.097656 -2.578125,0 -4.589844,2.734375 l -3.085937,-0.742188 2.5,-14.394531 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';fill:#ff0000;stroke-width:0.345792"
-         id="path1922" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';fill:#ff0000;stroke-width:0.334852"
+         id="path1919" />
     </g>
     <path
        stroke="#000000"
-       id="svg_1-12-5-9-5-9"
+       id="svg_1-12-5-9-5"
        d="m 70.066054,148.38516 c 9.279947,-39.28578 45.639076,0 0,50.51029 -45.639064,-50.51029 -9.279943,-89.79607 0,-50.51029 z"
        stroke-width="1.5"
        fill="#8B4D4B"
-       style="fill:#ff0000;stroke-width:0.51744;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ff0000;stroke-width:0.501069;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:transform-center-x="-3.0123654"
        inkscape:transform-center-y="-36.234137" />
+    <g
+       id="g1761-0"
+       transform="rotate(180,280.40616,393.86548)"
+       style="stroke-width:0.968361">
+      <g
+         aria-label="5"
+         transform="matrix(2.7962148,0,0,2.9908877,-63.73719,-84.31076)"
+         id="text1609-8"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1611-7);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.334852">
+        <path
+           d="m 56.523437,42.680036 -1.015625,5.605469 H 42.871094 L 41.875,53.98863 q 3.203125,-2.167969 6.640625,-2.167969 4.160156,0 6.816406,2.441406 2.675781,2.441406 2.675781,6.25 0,4.257813 -3.007812,6.777344 -2.988281,2.5 -8.085938,2.5 -9.21875,0 -9.21875,-6.328125 0,-0.917969 0.273438,-2.265625 l 3.457031,-0.722656 q -0.332031,1.601562 -0.332031,2.929687 0,3.984375 4.238281,3.984375 5.078125,0 5.078125,-7.207031 0,-5.097656 -4.316406,-5.097656 -2.578125,0 -4.589844,2.734375 l -3.085937,-0.742188 2.5,-14.394531 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';fill:#ff0000;stroke-width:0.334852"
+           id="path1922" />
+      </g>
+      <path
+         stroke="#000000"
+         id="svg_1-12-5-9-5-9"
+         d="m 70.066054,148.38516 c 9.279947,-39.28578 45.639076,0 0,50.51029 -45.639064,-50.51029 -9.279943,-89.79607 0,-50.51029 z"
+         stroke-width="1.5"
+         fill="#8B4D4B"
+         style="fill:#ff0000;stroke-width:0.501069;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:transform-center-x="-3.0123654"
+         inkscape:transform-center-y="-36.234137" />
+    </g>
   </g>
 </svg>
